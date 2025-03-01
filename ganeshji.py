@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image (Ensure the correct filename and extension)
-image_path = r"C:\Users\Bhavy\OneDrive\Desktop\your_image.jpg"  # Replace with actual image name
+image_path = r"C:\Users\Bhavy\OneDrive\Desktop\ganeshji.png"  # Replace with actual image name
 image = cv2.imread(image_path)
 
 # Check if image is loaded correctly
